@@ -1,4 +1,4 @@
-#### Part 1
+# Part 1
 
 
 
@@ -35,24 +35,28 @@ Completeness and consistency of the data and No Major Structural Changes in the 
 The analysis assumes that the sales process, pricing strategy, and target market remained relatively stable during the time period covered by the data. Major changes in strategy could influence win rates independently of the factors measured here.
 
 
+####
 
 
 
-#### Part 3
+
+
+# Part 3
 
 
 
-##### Option B – Win Rate Driver Analysis
+### B – Win Rate Driver Analysis
 
 #### 
 
-**Problem** **Definition**: The sales organization is experiencing a decline in win rate despite maintaining a healthy pipeline volume. Leadership needs to understand which factors are influencing deal outcomes and what actions can improve conversion rates.
+**Problem** **Definition** :  
+The sales organization is experiencing a decline in win rate despite maintaining a healthy pipeline volume. Leadership needs to understand which factors are influencing deal outcomes and what actions can improve conversion rates.
 
 
 
 
 
-A rule-based decision engine was designed using insights derived from exploratory data analysis.Higher variation indicates a stronger potential impact on deal outcomes
+A rule-based decision engine been designed using insights derived from exploratory data analysis.Higher variation indicates a stronger potential impact on deal outcomes
 
 
 
@@ -126,11 +130,11 @@ However, variation across sales representatives is more noticeable, indicating t
 
 
 
-#### Part 4
+# Part 4
 
 
 
-##### Mini system Design
+### Mini system Design
 
 
 
@@ -234,7 +238,7 @@ Daily processing helps identify risks early, while weekly reporting is useful fo
 
 
 
-#### Part 5
+# Part 5
 
 
 
@@ -285,4 +289,5 @@ Developing an interactive dashboard for real-time monitoring of pipeline health,
 
 
 The part I am least confident about is determining the true strength of win rate drivers using limited variables. Without additional contextual data such as customer engagement or competitive factors, it is difficult to fully explain why deals are won or lost. This analysis provides directional insights, but deeper investigation would be required.
+
 
